@@ -3250,3 +3250,10 @@ form .has-error .form-control {
 	margin: -100px 0 0 -100px;
 
 }
+
+/*    CMS styles    */
+
+	li .header {
+		text-align: center;
+		color: #c2c7d0;
+	}
